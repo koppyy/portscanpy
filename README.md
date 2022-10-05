@@ -28,5 +28,3 @@
 > **💻 LINUX**
 > - - [x] **KALI**
 > - - [ ] **UBUNTU**
-
-[Alt Text](https://i.imgur.com/z4nm0t6.gif)
