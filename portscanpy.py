@@ -43,7 +43,6 @@ try:
         code = s.connect_ex((target, port))
         if code == 0:
             print(f"\t{port}\tABERTA")
-            print("codded by Koppy404")
 except:
     exit()
     print('[ ! ] IP OU SOCKET INVALIDO [ ! ]')
