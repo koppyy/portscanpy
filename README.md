@@ -12,19 +12,18 @@
 ![[Team](https://github.com/koppy333-333-333)](http://img.shields.io/badge/Team-404-green.svg)
 
 # PortScanPy
-![alt text](https://i.imgur.com/z4nm0t6.gif)
-#### *INSTALAÇÃO*  
+#### *📥 INSTALAÇÃO*  
  - `apt update && apt upgrade`
  - `pkg install python`
  - `apt install git`
- - `git clone https://github.com/koppyy/Moon-Dos`
- - `cd Moon-Dos`
- - `python moondos.py`  
+ - `git clone https://github.com/koppyy/portscanpy`
+ - `cd portscanpy`
+ - `python portscanpy.py`  
 
-> **ANDROID**
+> **📱 ANDROID**
 > - - [x] **KALI NETHUNTER**
 > - - [x] **TERMUX**  
 
-> **LINUX**
+> **💻 LINUX**
 > - - [x] **KALI**
 > - - [ ] **UBUNTU**
